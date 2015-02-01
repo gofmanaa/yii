@@ -1,0 +1,2 @@
+# yii
+Console command clear 
