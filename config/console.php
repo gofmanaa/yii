@@ -15,6 +15,7 @@ return array(
 			'webRoot' => dirname(dirname(__DIR__)), 
 		),
 	),
+
 	// application components
 	'components'=>array(
 		'db'=>array(
